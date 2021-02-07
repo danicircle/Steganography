@@ -1,0 +1,28 @@
+c:\users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\bin\Debug\proj1_crypto.exe.config
+c:\users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\bin\Debug\proj1_crypto.exe
+c:\users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\bin\Debug\proj1_crypto.pdb
+c:\users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\obj\Debug\proj1_crypto.Form1.resources
+c:\users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\obj\Debug\proj1_crypto.Properties.Resources.resources
+c:\users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\obj\Debug\proj1_crypto.csproj.GenerateResource.Cache
+c:\users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\obj\Debug\proj1_crypto.exe
+c:\users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\obj\Debug\proj1_crypto.pdb
+c:\users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\obj\Debug\proj1_crypto.csprojResolveAssemblyReference.cache
+C:\Users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\bin\Debug\Interop.WMPLib.dll
+C:\Users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\obj\Debug\Interop.WMPLib.dll
+C:\Users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kk\documents\visual studio 2015\Projects\proj1_crypto\proj1_crypto\obj\Debug\proj1_crypto.csproj.ResolveComReference.cache
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\bin\Debug\proj1_crypto.exe.config
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\obj\Debug\Interop.WMPLib.dll
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\obj\Debug\AxInterop.WMPLib.dll
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\obj\Debug\proj1_crypto.csproj.ResolveComReference.cache
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\obj\Debug\proj1_crypto.exe
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\obj\Debug\proj1_crypto.pdb
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\bin\Debug\proj1_crypto.exe
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\bin\Debug\proj1_crypto.pdb
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\bin\Debug\Interop.WMPLib.dll
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\bin\Debug\AxInterop.WMPLib.dll
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\obj\Debug\proj1_crypto.csprojResolveAssemblyReference.cache
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\obj\Debug\proj1_crypto.Form1.resources
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\obj\Debug\proj1_crypto.Properties.Resources.resources
+E:\Important\UniversityStuff\Projects\projCrypto\proj1_crypto\obj\Debug\proj1_crypto.csproj.GenerateResource.Cache

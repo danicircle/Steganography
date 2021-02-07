@@ -1,0 +1,10 @@
+D:\NotUseless\DownloadItems\SimpleSteganography1\SimpleSteganography1\bin\Debug\SimpleSteganography1.exe
+D:\NotUseless\DownloadItems\SimpleSteganography1\SimpleSteganography1\bin\Debug\SimpleSteganography1.pdb
+D:\NotUseless\DownloadItems\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csprojResolveAssemblyReference.cache
+D:\NotUseless\DownloadItems\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography.Form1.resources
+D:\NotUseless\DownloadItems\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography.Properties.Resources.resources
+D:\NotUseless\DownloadItems\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csproj.GenerateResource.Cache
+D:\NotUseless\DownloadItems\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.exe
+D:\NotUseless\DownloadItems\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.pdb
+E:\Important\UniversityStuff\Projects\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.exe
+E:\Important\UniversityStuff\Projects\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.pdb
